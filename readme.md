@@ -1,8 +1,8 @@
 # Project-04 HTML and CSS
 
-![Badge](https://img.shields.io/badge/Project--01-Techtrends--2025-green)
+![Badge](https://img.shields.io/badge/Project--04-CY--Competition-green)
 
-# [Link of live project]()
+# [Link of live project](https://cy-competition.netlify.app/)
 
 ![LCO](./img/landing-page.png)
 
